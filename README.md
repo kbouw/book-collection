@@ -10,6 +10,10 @@ X books across 15 genres.
 
 :cloud: Too much fluff
 
+__[HC]__ = Hardcover
+
+__[PB]__ = Paperback
+
 
 ---
 
