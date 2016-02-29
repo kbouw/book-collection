@@ -1,6 +1,6 @@
 My personal home library
 ====
-101 books across 16 genres.
+### 101 books across 16 genres.
 
 :paperclip: Currently Reading
 
@@ -94,7 +94,7 @@ __[PB]__ = Paperback
 
 * `History of Western Science` - John Gribbin, 2010 __[HC]__
 
-* `The Upright Thinkers` - Leonard Mlodinow, 2015 __[HC]__
+* `The Upright Thinkers` - Leonard Mlodinow, 2015 __[HC]__ :paperclip:
 
 * `The World Treasury of Physics, Astronomy, and Mathematics` - Timothy Ferris, 1991 __[HC]__
 
