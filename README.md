@@ -1,6 +1,6 @@
 My personal home library
 ====
-X books across 15 genres.
+101 books across 16 genres.
 
 :paperclip: Currently Reading
 
